@@ -8,4 +8,7 @@ MATKUL  : Pemograman Mobile
 SEMESTER 3
 ```
 
-maaf pak, untuk isinya belum saya kirim. masih banyak perbaikan
+# HASIL AKHIR DARI PROJECT MOBILE
+
+https://github.com/Aliyahasmarani/U_A_S_MOBILE/assets/115197672/d2a9e732-fd7e-4d3e-9009-160d228adf37
+
